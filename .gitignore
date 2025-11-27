@@ -1,0 +1,14 @@
+# Node.js dependencies
+node_modules/
+
+# Eleventy output directory
+_site/
+
+# Tailwind CSS build artifacts
+assets/*.css.map
+
+# System files
+.DS_Store
+
+# VS Code settings
+.vscode/
