@@ -1,0 +1,18 @@
+{
+    "profile": "nunjucks",
+    "extensions": [
+        ".njk",
+        ".nunjucks",
+        ".md"
+    ],
+    "indent": "2",
+    "maxLineLength": 120,
+    "format_css": true,
+    "format_js": true,
+    "css": {
+        "indent_size": 2
+    },
+    "js": {
+        "indent_size": 2
+    }
+}

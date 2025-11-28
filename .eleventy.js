@@ -1,9 +1,9 @@
-module.exports = function(eleventyConfig) {
+module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("assets");
   return {
-    dir: { 
+    dir: {
       input: "src",
-      output: "_site" 
+      output: "_site"
     },
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk"
